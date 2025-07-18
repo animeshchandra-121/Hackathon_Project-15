@@ -12,28 +12,34 @@ Companies often need to announce internal tools, updates, or product rollouts. H
 
 ## 🛠 Tech Stack
 
-- *Frontend*: React.js
-- *Styling*: Tailwind CSS
-- *Build Tools*: Vite + PostCSS
-- *Package Manager*: npm
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Build Tools**: Vite + PostCSS
+- **Package Manager**: npm
 
 ---
 
 ## 💡 Key Features
 
-- 🧱 *Drag-and-Drop Interface* – Add pre-built components like headers, features, CTAs
-- 🎨 *Fully Customizable* – Edit text, images, themes, and layout with ease
-- 📱 *Responsive Design* – Works across desktops, tablets, and phones
-- 🌙 *Dark/Light Modes* – Optional theme toggle
-- 💾 *Export Ready* – Export page as clean HTML/CSS
+- 🧱 **Drag-and-Drop Interface** – Add pre-built components like headers, features, CTAs
+- 🎨 **Fully Customizable** – Edit text, images, themes, and layout with ease
+- 📱 **Responsive Design** – Works across desktops, tablets, and phones
+- 🌙 **Dark/Light Modes** – Optional theme toggle
+- 💾 **Export Ready** – Export page as clean HTML/CSS
 
 ---
 
 ## 📦 Installation
 
-'''
+```bash
 git clone https://github.com/yourusername/LandingPage.git
 cd LandingPage
 npm install
-npm run dev
-'''
+npm run dev
+```
+
+---
+
+## 📄 License
+
+MIT 
