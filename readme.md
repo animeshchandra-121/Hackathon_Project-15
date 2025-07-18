@@ -32,7 +32,7 @@ Companies often need to announce internal tools, updates, or product rollouts. H
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/LandingPage.git
+git clone https://github.com/animeshchandra-121/Team_31_Project_15.git
 cd LandingPage
 npm install
 npm run dev
