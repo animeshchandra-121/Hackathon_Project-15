@@ -1,6 +1,6 @@
-# 🚀 LandingPage – Internal Launch Page Builder
+# 🚀 LandingMate – Internal Launch Page Builder
 
-LandingPage is a simple, fast, and customizable landing page builder designed specifically for *internal product launches*. Built for non-developers, it allows any team to create polished, responsive pages in minutes using drag-and-drop components — no coding required.
+LandingMate is a simple, fast, and customizable landing page builder designed specifically for *internal product launches*. Built for non-developers, it allows any team to create polished, responsive pages in minutes using drag-and-drop components — no coding required.
 
 ---
 
